@@ -20,7 +20,6 @@ public class Tienda {
                 String[] partes = linea.split("\\|"); // Separar los datos por el carácter '|'
 
                 if (partes.length < 6) {
-                    // Asegúrate de que haya suficientes campos en cada línea
                     System.out.println("Error: Formato de línea CSV incorrecto");
                     continue;
                 }
