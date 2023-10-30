@@ -1,0 +1,5 @@
+Marca,Modelo,Precio,Cuotas,Tipo,RAM,Procesador,Almacenamiento,AdmiteMicroUSB,IncluyeCuboCargador,Es5G
+Samsung,Galaxy S21,899.99,12,TelefonoInteligente,8,Exynos 2100,128,true,true,true
+Apple,iPhone 13 Pro,1099.99,12,TelefonoInteligente,6,A15 Bionic,256,false,true,true
+HP,Envy x360,999.99,12,ComputadoraPortatil,16,SSD,7,2,false,true
+Dell,Inspiron 15,799.99,12,ComputadoraPortatil,12,HDD,5,1,false,false
